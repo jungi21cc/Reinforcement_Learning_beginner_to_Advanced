@@ -1,2 +1,3 @@
-# airbnb
-kaggle airbnb
+# Reinforcement Learning
+
+Reinforcement Learning Study materials
